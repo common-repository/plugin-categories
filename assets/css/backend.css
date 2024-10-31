@@ -1,0 +1,9 @@
+body.plugins-php #TB_window {
+	
+	background: #fff!important;
+
+}
+
+.plugins th.column-category {
+	width: 20%;
+}
